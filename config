@@ -1,0 +1,4 @@
+# vim:set ft=sh
+banner_file="banner.txt"
+comment_char="#"
+c_style_comment_char="//"
